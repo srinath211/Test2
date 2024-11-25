@@ -1,0 +1,23 @@
+.box1{
+    width: 900px;
+    height: 800px;
+    background-color: aqua;
+    margin-left: 150px;
+    border-radius: 20px;
+}
+.box2{
+    height: 700px;
+    width: 650px;
+    background-color: aqua;
+    margin-left: 130px;
+    margin-top: 50px;
+
+}
+.box3{
+    display: flex;
+    justify-content: space-between;
+}
+.g {
+    margin-left: 120%;
+    margin-bottom: 20px;
+}

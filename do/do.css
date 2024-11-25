@@ -1,0 +1,26 @@
+.box1{
+    height: 200px
+    width: 150px;
+    border:100px;
+    background-color:pink;
+    margin-left: 150px;
+    border-radius: 20px;
+}
+.box2{
+        height: 700px;
+    width: 650px;
+    background-color: pink;
+    margin-top: 200px;
+}
+.g img{
+    position:relative ;
+    bottom: 100px;
+    left: 350px;
+}
+.box4 p{
+    display: flex;
+}
+.box3 h5{
+    font-size: 100%;
+    }
+    

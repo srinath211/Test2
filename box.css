@@ -1,0 +1,15 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    padding-left: 20%;
+    padding-right: 40%
+    margin: left: 1%;
+    position: relative;
+
+
+}
+.B{
+    height: 100px;
+    width: 100px;
+}
